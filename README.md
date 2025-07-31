@@ -1,4 +1,4 @@
-# GestionMovilidad
+# GestionMovilidad y de Obstáculos
 La gestión de movilidad es un componente clave para el diseño y programación de nuestro prototipo.
 Aplicamos principios de ingeniería, física y algoritmos de control para lograr desplazamientos precisos, eficientes y seguros en cada desafío.
 
